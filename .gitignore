@@ -1,0 +1,8 @@
+.vscode
+# macOS Files
+.DS_Store
+
+# information txt
+name.txt
+telegram.txt
+exampleInfo.txt
